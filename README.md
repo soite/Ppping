@@ -1,5 +1,4 @@
 # 📡 Network Monitor
-![test](https://raw.githubusercontent.com/soite/Ppping/master/screenshots/rtt.png)
 
 A simple Python tool to measure and visualize network performance using ICMP (ping).
 
@@ -74,7 +73,6 @@ The script opens a window with three graphs:
 
 ## 🖼️ Screenshots
 
-```md
 ## 🖼️ Screenshots
 ### RTT
 ![test](https://raw.githubusercontent.com/soite/Ppping/master/screenshots/rtt.png)
@@ -82,7 +80,6 @@ The script opens a window with three graphs:
 ![test](https://raw.githubusercontent.com/soite/Ppping/master/screenshots/jitter.png)
 ### Packet Loss
 ![test](https://raw.githubusercontent.com/soite/Ppping/master/screenshots/packet_loss.png)
-```
 
 ---
 
