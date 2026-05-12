@@ -46,18 +46,18 @@ python monitor.py
 ### Run with custom options
 
 ```bash
-python monitor.py --host google.com --tests 10 --count 4
+python monitor.py --host google.com --tests 10 --ping_count 4
 ```
 
 ---
 
 ## ⚙️ Arguments
 
-| Argument  | Description           | Default  |
-| --------- | --------------------- | -------- |
-| `--host`  | Target domain or IP   | divar.ir |
-| `--tests` | Number of test rounds | 10       |
-| `--count` | Pings per round       | 4        |
+| Argument       | Description           | Default  |
+|----------------| --------------------- | -------- |
+| `--host`       | Target domain or IP   | divar.ir |
+| `--tests`      | Number of test rounds | 10       |
+| `--ping_count` | Pings per round       | 4        |
 
 ---
 
