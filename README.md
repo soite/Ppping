@@ -76,11 +76,11 @@ The script opens a window with three graphs:
 ```md
 ## 🖼️ Screenshots
 ### RTT
-![RTT Graph](screenshots/rtt.png)
+![RTT Graph](https://raw.githubusercontent.com/soite/Ppping/master/screenshots/rtt.png)
 ### Jitter
-![Jitter Graph](screenshots/jitter.png)
+![Jitter Graph](https://raw.githubusercontent.com/soite/Ppping/master/screenshots/jitter.png)
 ### Packet Loss
-![Packet Loss Graph](screenshots/packet_loss.png)
+![Packet Loss Graph](https://raw.githubusercontent.com/soite/Ppping/master/screenshots/packet_loss.png)
 ```
 
 ---
