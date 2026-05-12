@@ -15,8 +15,8 @@ Customizable target host and test parameters
 
 Clone the repository:
 
-git clone https://github.com/yourusername/network-monitor.git
-cd network-monitor
+git clone https://github.com/soite/Ppping.git
+cd Ppping
 
 Install dependencies:
 
