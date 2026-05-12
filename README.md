@@ -72,8 +72,6 @@ The script opens a window with three graphs:
 ---
 
 ## 🖼️ Screenshots
-
-## 🖼️ Screenshots
 ### RTT
 ![test](https://raw.githubusercontent.com/soite/Ppping/master/screenshots/rtt.png)
 ### Jitter
