@@ -1,4 +1,5 @@
 # 📡 Network Monitor
+![test](https://raw.githubusercontent.com/soite/Ppping/master/screenshots/rtt.png)
 
 A simple Python tool to measure and visualize network performance using ICMP (ping).
 
