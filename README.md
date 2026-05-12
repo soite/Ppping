@@ -74,8 +74,12 @@ The script opens a window with three graphs:
 ## 🖼️ Screenshots
 
 ```md
+## 🖼️ Screenshots
+### RTT
 ![RTT Graph](screenshots/rtt.png)
+### Jitter
 ![Jitter Graph](screenshots/jitter.png)
+### Packet Loss
 ![Packet Loss Graph](screenshots/packet_loss.png)
 ```
 
